@@ -1,0 +1,72 @@
+#signin {
+	width: 515px;
+	height: 50px;
+	background-color: #de995e;
+	color: #fff;
+	margin-bottom:7px;
+	padding-top:13px;
+}
+
+#createaccount {
+	width: 515px;
+	height: 50px;
+	background-color: #de995e;
+	color: #fff;
+	margin-bottom:7px;
+	padding-top:13px;
+}
+
+#whitebox {
+	
+	background-color: rgba(0,0,0,0.3);
+	margin-top: 150px; 
+	margin-left: 50px;
+	margin-right: 50px;
+	padding bottom: 30px;
+	width: 1000px;
+	height: 200px;
+	margin-right: 200px;
+
+}
+
+
+#html { 
+  background: url(img/background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#loginbox{
+	font-color: blue;
+}
+
+
+#header2 {padding-left:810px;}
+
+#nav {padding:3px;
+padding-right:35px;}
+
+#settings {
+	padding-top:21px;}
+
+#exit {padding-top:21px;}
+
+#html {
+	padding-top:21px;
+}
+
+
+#firstpics {margin-top:300px;
+	margin-left: 200px;
+	height:2000px; 
+width:4000px;}
+
+
+
+#application {margin-top:300px;}
+
+#textinputshift {padding-top:20px;}
+
+#shiftbutton {padding:20px;}
